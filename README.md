@@ -19,7 +19,7 @@ It installs any of this project's packages that are missing: readr, dplyr, ggplo
 3. Copy the code into a chatbot and ask: "Can you help me visualize this?"
 4. Paste the reply into a new chunk and run it.
 
-## What's here
+## Contents
 
 ```
 inputs/raw/subgroup_estimates.csv   messy subgroup estimates

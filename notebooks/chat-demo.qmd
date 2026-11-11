@@ -25,7 +25,7 @@ estimates |>
   )
 ```
 
-## What to notice
+## Points to notice
 
 - The chatbot saw only the code you pasted. It didn't see the data, the codebook, or the output.
 - You carried all of the context back and forth by hand.
