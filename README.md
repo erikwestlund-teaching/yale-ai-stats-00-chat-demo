@@ -1,6 +1,6 @@
 # Exercise 0: Using Chatbots for Statistical Work
 
-Part of the workshop **AI Tools for Statistical Programming and Analysis**. This is the copy-and-paste chatbot demonstration in Module 2.
+Part of the workshop **AI-Powered Coding and Data Analysis**. This is the copy-and-paste chatbot demonstration in Module 2.
 
 ## Install packages
 
